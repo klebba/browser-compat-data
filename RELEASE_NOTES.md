@@ -1,5 +1,25 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.0.5](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.5)
+
+June 25, 2026
+
+### Additions
+
+- `webdriver.bidi.browsingContext.startScreencast` ([#29917](https://github.com/mdn/browser-compat-data/pull/29917))
+- `webdriver.bidi.browsingContext.startScreencast.context_parameter` ([#29917](https://github.com/mdn/browser-compat-data/pull/29917))
+- `webdriver.bidi.browsingContext.startScreencast.mimeType_parameter` ([#29917](https://github.com/mdn/browser-compat-data/pull/29917))
+- `webdriver.bidi.browsingContext.startScreencast.video_parameter` ([#29917](https://github.com/mdn/browser-compat-data/pull/29917))
+- `webdriver.bidi.browsingContext.stopScreencast` ([#29917](https://github.com/mdn/browser-compat-data/pull/29917))
+- `webdriver.bidi.browsingContext.stopScreencast.screencast_parameter` ([#29917](https://github.com/mdn/browser-compat-data/pull/29917))
+
+### Statistics
+
+- 4 contributors have changed 3 files with 199 additions and 7 deletions in 4 commits ([`next...v8.0.5`](https://github.com/mdn/browser-compat-data/compare/next...v8.0.5))
+- 19,877 total features
+- 1,255 total contributors
+- 5,696 total stargazers
+
 ## [v8.0.4](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.4)
 
 June 19, 2026
